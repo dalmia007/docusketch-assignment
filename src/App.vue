@@ -2,10 +2,10 @@
 import { ref, onMounted } from 'vue'
 
 // Constants
-const CANVAS_SIZE = 750
-const SHAPE_SCALE = 600
-const SHAPE_PADDING = 75
-const DIMENSION_OFFSET = 50
+const CANVAS_SIZE = 500
+const SHAPE_SCALE = 400
+const SHAPE_PADDING = 50
+const DIMENSION_OFFSET = 25
 const SHAPE_LINE_WIDTH = 2
 const DIMENSION_LINE_WIDTH = 3
 
